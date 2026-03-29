@@ -3,7 +3,7 @@
 #  ₿ CRYPTO WALLET TRACKER — Interactive TUI App
 #  Supports: Bitcoin (BTC) · Ethereum (ETH)
 #  Chain auto-detected from address format — No API key required
-#  Run: python3 btc_tracker.py
+#  Run: python3 chainsaw.py
 #  Requires: pip install requests
 # =============================================================================
 

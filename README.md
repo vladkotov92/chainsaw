@@ -39,7 +39,7 @@ pip install requests
 ## Usage
 
 ```bash
-python3 btc_tracker.py
+python3 chainsaw.py
 ```
 
 ### Flow
