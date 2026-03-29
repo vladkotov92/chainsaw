@@ -51,6 +51,9 @@ def print_header() -> None:
 \____/_/ /_/_/  |_/___/_/ |_//____/_/  |_|__/|__/   
 
                         Developer: A Russian Boy
+
+
+* GitHub: https://github.com/vladkotov92
     """)
     print(f"{RESET}")
     print(f"  {DIM}Supports {GOLD}₿ Bitcoin{RESET}{DIM} · {BLUE}Ξ Ethereum{RESET}{DIM}  ·  No API key required  ·  Auto chain detection{RESET}")
